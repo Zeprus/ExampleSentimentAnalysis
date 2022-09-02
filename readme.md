@@ -1,0 +1,2 @@
+## Basic Sentiment Analysis example using R and Quanteda on the UN Security Council debates 1995-2020
+R-Workspace source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KGVSYH
